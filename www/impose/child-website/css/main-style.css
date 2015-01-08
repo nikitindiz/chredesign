@@ -1,0 +1,17 @@
+html {
+  /* Default font */
+  font-family: "Open Sans", sans-serif; }
+
+.script-font {
+  font-family: "Dancing Script", cursive; }
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url("../img/child-website-redesign.jpg") 0 0 no-repeat;
+  height: 1900px;
+  /* width: 1349px */
+  background-size: contain;
+  color: black; }
+
+/*# sourceMappingURL=main-style.css.map */
